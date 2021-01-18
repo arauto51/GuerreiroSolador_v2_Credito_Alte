@@ -1,0 +1,10 @@
+-Fixed passabilty problems
+-Fixed dispose error
+-Fixed bug when trying to open menu
+-Fixed bug in game when teleporting(not totally resolved)
+-Fixed Bug when player 2 goes down in the screen
+-Fixed passabilty problem when both players where in diferents maps
+-Fixed error in the required number of SDK parts(before it used the five part)
+-Fixed error in some comments
+-Fixed error in the title
+-Fixed error in Game_Event2 class creation
